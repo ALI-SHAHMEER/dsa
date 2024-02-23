@@ -7,4 +7,5 @@
   <li>Circular Linked List</li>
   <li>Stack</li>
   <li>Queue</li>
+  <li>Sets</li>
 </ol>
