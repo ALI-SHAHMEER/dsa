@@ -8,4 +8,5 @@
   <li>Stack</li>
   <li>Queue</li>
   <li>Sets</li>
+  <li>Recursion</li>
 </ol>
