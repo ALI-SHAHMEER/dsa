@@ -10,3 +10,18 @@
   <li>Sets</li>
   <li>Recursion</li>
 </ol>
+# Function For Problem Solving
+<ol>
+  <li>Push</li>
+  <li>Pop</li>
+  <li>Insert</li>
+  <li>Remove</li>
+  <li>Len</li>
+  <li>get</li>
+  <li>Maximum</li>
+  <li>Minimum</li>
+  <li>Remove-Maximum</li>
+  <li>Remove-Minimum</li>
+  <li>highest 3 value</li>
+  <li>Lowest 3 value</li>
+</ol>
