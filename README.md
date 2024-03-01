@@ -10,7 +10,7 @@
   <li>Sets</li>
   <li>Recursion</li>
 </ol>
-# Function For Problem Solving
+<h1>Function For Problem Solving</h1>
 <ol>
   <li>Push</li>
   <li>Pop</li>
