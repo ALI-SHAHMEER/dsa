@@ -24,4 +24,5 @@
   <li>Remove-Minimum</li>
   <li>highest 3 value</li>
   <li>Lowest 3 value</li>
+  <li>Reverse Linked List</li>
 </ol>
